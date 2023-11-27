@@ -1,0 +1,6 @@
+numpy
+matplotlib
+roboflow
+pytest
+black
+ipython
